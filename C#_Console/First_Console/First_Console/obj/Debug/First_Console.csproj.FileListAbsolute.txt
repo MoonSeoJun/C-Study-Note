@@ -1,0 +1,7 @@
+D:\C-Study-Note\C#_Console\First_Console\First_Console\bin\Debug\First_Console.exe.config
+D:\C-Study-Note\C#_Console\First_Console\First_Console\bin\Debug\First_Console.exe
+D:\C-Study-Note\C#_Console\First_Console\First_Console\bin\Debug\First_Console.pdb
+D:\C-Study-Note\C#_Console\First_Console\First_Console\obj\Debug\First_Console.csprojAssemblyReference.cache
+D:\C-Study-Note\C#_Console\First_Console\First_Console\obj\Debug\First_Console.csproj.CoreCompileInputs.cache
+D:\C-Study-Note\C#_Console\First_Console\First_Console\obj\Debug\First_Console.exe
+D:\C-Study-Note\C#_Console\First_Console\First_Console\obj\Debug\First_Console.pdb
