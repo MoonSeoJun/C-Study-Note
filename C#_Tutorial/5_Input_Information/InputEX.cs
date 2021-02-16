@@ -13,7 +13,7 @@ namespace CS_lesson
             Console.Write("Enter your name : ");
             string name = Console.ReadLine();
             Console.Write("Enter your age : ");
-            string age = Console.ReadLine();
+            int age = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Hello, " + name + "! " + "you are " + age);
         }
     }
