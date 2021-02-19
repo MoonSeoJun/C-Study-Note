@@ -213,3 +213,4 @@ D:\C-Study-Note\Blazor_Server\BlazorServer\Server\obj\Debug\netcoreapp3.1\Blazor
 D:\C-Study-Note\Blazor_Server\BlazorServer\Server\obj\Debug\netcoreapp3.1\BlazorServer.Server.dll
 D:\C-Study-Note\Blazor_Server\BlazorServer\Server\obj\Debug\netcoreapp3.1\BlazorServer.Server.pdb
 D:\C-Study-Note\Blazor_Server\BlazorServer\Server\obj\Debug\netcoreapp3.1\BlazorServer.Server.genruntimeconfig.cache
+D:\C-Study-Note\Blazor_Server\BlazorServer\Server\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll

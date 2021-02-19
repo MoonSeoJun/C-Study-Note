@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "6XiuLxX+vY1DdRLFly8PSpnfkzlNXAsnjKTLpGgPxykzzxszWC11Xprhv0Q/zZRdWkJSiX5Ea728aEzsSLh0Lg==",
+  "dgSpecHash": "SiN1LqCvRymubXviF9sWHGO5ZruKD9QxiN6K02TqMRAzyYBZWfMcjA7nhnoH6pefWLqgkazuXPKmlDbK6KxrHQ==",
   "success": true,
   "projectFilePath": "D:\\C-Study-Note\\Blazor_Server\\BlazorServer\\Shared\\BlazorServer.Shared.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
