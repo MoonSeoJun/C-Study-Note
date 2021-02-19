@@ -182,7 +182,6 @@ D:\C-Study-Note\Blazor_Server\BlazorServer\Client\obj\Debug\netstandard2.1\Razor
 D:\C-Study-Note\Blazor_Server\BlazorServer\Client\obj\Debug\netstandard2.1\Razor\Shared\SurveyPrompt.razor.g.cs
 D:\C-Study-Note\Blazor_Server\BlazorServer\Client\obj\Debug\netstandard2.1\Razor\_Imports.razor.g.cs
 D:\C-Study-Note\Blazor_Server\BlazorServer\Client\obj\Debug\netstandard2.1\blazor\unlinked.output
-D:\C-Study-Note\Blazor_Server\BlazorServer\Client\obj\Debug\netstandard2.1\integrity\aDDFDv3P08e4hU1FO9zjkgaCX-I79R0u1tYJNay8SPc=.hash
 D:\C-Study-Note\Blazor_Server\BlazorServer\Client\obj\Debug\netstandard2.1\integrity\99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash
 D:\C-Study-Note\Blazor_Server\BlazorServer\Client\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
 D:\C-Study-Note\Blazor_Server\BlazorServer\Client\obj\Debug\netstandard2.1\integrity\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
@@ -235,14 +234,12 @@ D:\C-Study-Note\Blazor_Server\BlazorServer\Client\obj\Debug\netstandard2.1\integ
 D:\C-Study-Note\Blazor_Server\BlazorServer\Client\obj\Debug\netstandard2.1\integrity\rvTW0d54uLW0iDMAX30lpmr9f8uHoS3YYkEU5zNGhyc=.hash
 D:\C-Study-Note\Blazor_Server\BlazorServer\Client\obj\Debug\netstandard2.1\integrity\LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=.hash
 D:\C-Study-Note\Blazor_Server\BlazorServer\Client\obj\Debug\netstandard2.1\integrity\czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash
-D:\C-Study-Note\Blazor_Server\BlazorServer\Client\obj\Debug\netstandard2.1\integrity\CX3vP52SyOrDUKoFhIMF_LVATyXozHo7yjUx1F_hcmk=.hash
 D:\C-Study-Note\Blazor_Server\BlazorServer\Client\obj\Debug\netstandard2.1\integrity\QVvwNINbTVMZ8ogfhebLzysIOTLpXd7xfTfva2S706w=.hash
 D:\C-Study-Note\Blazor_Server\BlazorServer\Client\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 D:\C-Study-Note\Blazor_Server\BlazorServer\Client\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 D:\C-Study-Note\Blazor_Server\BlazorServer\Client\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
 D:\C-Study-Note\Blazor_Server\BlazorServer\Client\obj\Debug\netstandard2.1\integrity\SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash
 D:\C-Study-Note\Blazor_Server\BlazorServer\Client\obj\Debug\netstandard2.1\blazor\blazor.boot.json
-D:\C-Study-Note\Blazor_Server\BlazorServer\Client\obj\Debug\netstandard2.1\integrity\6KloD-ayP2I_awARbqPqZ54skmb6aabPcybh4TSEmJM=.hash
 D:\C-Study-Note\Blazor_Server\BlazorServer\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\BlazorServer.Client.dll.gz
 D:\C-Study-Note\Blazor_Server\BlazorServer\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.gz
 D:\C-Study-Note\Blazor_Server\BlazorServer\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.gz
@@ -370,3 +367,8 @@ D:\C-Study-Note\Blazor_Server\BlazorServer\Client\obj\Debug\netstandard2.1\Blazo
 D:\C-Study-Note\Blazor_Server\BlazorServer\Client\obj\Debug\netstandard2.1\BlazorServer.Client.csproj.CopyComplete
 D:\C-Study-Note\Blazor_Server\BlazorServer\Client\obj\Debug\netstandard2.1\BlazorServer.Client.dll
 D:\C-Study-Note\Blazor_Server\BlazorServer\Client\obj\Debug\netstandard2.1\BlazorServer.Client.pdb
+D:\C-Study-Note\Blazor_Server\BlazorServer\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Table.razor.g.cs
+D:\C-Study-Note\Blazor_Server\BlazorServer\Client\obj\Debug\netstandard2.1\Razor\Pages\Table.razor.g.cs
+D:\C-Study-Note\Blazor_Server\BlazorServer\Client\obj\Debug\netstandard2.1\integrity\tjIkl88LL3XwqgrZTBkvCDksB9cWFrjj_VapOaVIIHU=.hash
+D:\C-Study-Note\Blazor_Server\BlazorServer\Client\obj\Debug\netstandard2.1\integrity\U-ReGg67EPhlwrJ3Vhj06ySWYLLBLgwT1QdyDPQMCBI=.hash
+D:\C-Study-Note\Blazor_Server\BlazorServer\Client\obj\Debug\netstandard2.1\integrity\VBeYMct3tJRnk-f5zMBFKZYQ-hthhMcFdAZXjQokuVE=.hash
