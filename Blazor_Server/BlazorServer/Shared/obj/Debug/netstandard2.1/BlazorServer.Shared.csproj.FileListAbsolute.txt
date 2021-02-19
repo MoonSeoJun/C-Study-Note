@@ -1,0 +1,9 @@
+D:\C-Study-Note\Blazor_Server\BlazorServer\Shared\bin\Debug\netstandard2.1\BlazorServer.Shared.deps.json
+D:\C-Study-Note\Blazor_Server\BlazorServer\Shared\bin\Debug\netstandard2.1\BlazorServer.Shared.dll
+D:\C-Study-Note\Blazor_Server\BlazorServer\Shared\bin\Debug\netstandard2.1\BlazorServer.Shared.pdb
+D:\C-Study-Note\Blazor_Server\BlazorServer\Shared\obj\Debug\netstandard2.1\BlazorServer.Shared.csprojAssemblyReference.cache
+D:\C-Study-Note\Blazor_Server\BlazorServer\Shared\obj\Debug\netstandard2.1\BlazorServer.Shared.AssemblyInfoInputs.cache
+D:\C-Study-Note\Blazor_Server\BlazorServer\Shared\obj\Debug\netstandard2.1\BlazorServer.Shared.AssemblyInfo.cs
+D:\C-Study-Note\Blazor_Server\BlazorServer\Shared\obj\Debug\netstandard2.1\BlazorServer.Shared.csproj.CoreCompileInputs.cache
+D:\C-Study-Note\Blazor_Server\BlazorServer\Shared\obj\Debug\netstandard2.1\BlazorServer.Shared.dll
+D:\C-Study-Note\Blazor_Server\BlazorServer\Shared\obj\Debug\netstandard2.1\BlazorServer.Shared.pdb
