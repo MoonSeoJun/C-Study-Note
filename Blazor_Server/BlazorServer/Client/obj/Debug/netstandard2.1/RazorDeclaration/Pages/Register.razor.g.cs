@@ -75,8 +75,8 @@ using BlazorServer.Client.Shared;
 #line default
 #line hidden
 #nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/login")]
-    public partial class Login : Microsoft.AspNetCore.Components.ComponentBase
+    [Microsoft.AspNetCore.Components.RouteAttribute("/register")]
+    public partial class Register : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
@@ -84,21 +84,20 @@ using BlazorServer.Client.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "D:\C-Study-Note\Blazor_Server\BlazorServer\Client\Pages\Login.razor"
+#line 40 "D:\C-Study-Note\Blazor_Server\BlazorServer\Client\Pages\Register.razor"
        
-    private BlazorServer.Shared.UserLogin user =
-        new BlazorServer.Shared.UserLogin();
+    BlazorServer.Shared.UserRegister user = new BlazorServer.Shared.UserRegister();
 
-    bool isAuthenticated = false;
-
-    private void HandleLogin()
+    void HandleRegistration()
     {
-        isAuthenticated = true;
+        NavigationManager.NavigateTo("login");
     }
+
 
 #line default
 #line hidden
 #nullable disable
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private NavigationManager NavigationManager { get; set; }
     }
 }
 #pragma warning restore 1591
