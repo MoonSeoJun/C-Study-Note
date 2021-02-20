@@ -63,14 +63,21 @@ using Microsoft.JSInterop;
 #nullable disable
 #nullable restore
 #line 8 "D:\C-Study-Note\PlannerApp\PlannerAppCilent\_Imports.razor"
-using PlannerAppCilent;
+using PlannerApp.Cilent;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
 #line 9 "D:\C-Study-Note\PlannerApp\PlannerAppCilent\_Imports.razor"
-using PlannerAppCilent.Shared;
+using PlannerApp.Cilent.Shared;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 10 "D:\C-Study-Note\PlannerApp\PlannerAppCilent\_Imports.razor"
+using Radzen.Blazor;
 
 #line default
 #line hidden
