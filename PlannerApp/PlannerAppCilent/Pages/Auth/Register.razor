@@ -10,10 +10,7 @@
         <h2>Create a new account</h2>
         <EditForm Model="model" OnInvalidSubmit="RegisterUser">
             <RadzenCard>
-                @if (!string.IsNullOrWhiteSpace(message))
-                {
-                    <div class="alert alert-info">@message</div>
-                }
+                <AlertMessage Message="@message" MessageType="@messageType"></AlertMessage>
                 <DataAnnotationsValidator />
                 <ValidationSummary />
                 <label>First Name</label>
@@ -33,12 +30,11 @@
                 <hr />
                 <RadzenButton ButtonType="Radzen.ButtonType.Submit" Text="Register"
                               ButtonStyle="Radzen.ButtonStyle.Primary"
-                              class="btn-block mr-2"
-                              Disabled="isBusy"></RadzenButton>
+                              class="btn-block mr-2" Disabled="isBusy" />
+                              
                 <RadzenButton ButtonType="Radzen.ButtonType.Submit"  Text="Login"
-                              ButtonStyle="Radzen.ButtonStyle.Primary" 
-                              class="btn-block mr-2"
-                              Disabled="isBusy"></RadzenButton>
+                              ButtonStyle="Radzen.ButtonStyle.Secondary" 
+                              class="btn-block mr-2" Disabled="isBusy" Click="GoToLogin"/>
             </RadzenCard>
         </EditForm>
     </div>
@@ -48,6 +44,7 @@
 
     bool isBusy = false;
     string message = string.Empty;
+    Models.AlertMessageType messageType = Models.AlertMessageType.Success;
 
     public async Task RegisterUser()
     {
@@ -58,11 +55,18 @@
         if (result.IsSuccess)
         {
             message = result.Message;
+            messageType = Models.AlertMessageType.Success;
         }
         else
         {
-            message = result.Message;
+            message = result.Errors.FirstOrDefault() ?? result.Message;
+            messageType = Models.AlertMessageType.Error;
         }
         isBusy = false;
+    }
+
+    void GoToLogin()
+    {
+        navigationManager.NavigateTo("/auth/login");
     }
 }

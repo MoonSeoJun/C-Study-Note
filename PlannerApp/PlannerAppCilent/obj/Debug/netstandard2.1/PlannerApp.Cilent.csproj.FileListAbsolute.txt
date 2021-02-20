@@ -416,8 +416,10 @@ D:\C-Study-Note\PlannerApp\PlannerAppCilent\obj\Debug\netstandard2.1\compressed\
 D:\C-Study-Note\PlannerApp\PlannerAppCilent\obj\Debug\netstandard2.1\compressed\_framework\_bin\Newtonsoft.Json.dll.gz
 D:\C-Study-Note\PlannerApp\PlannerAppCilent\obj\Debug\netstandard2.1\compressed\_framework\_bin\AKSoftware.WebApi.dll.br
 D:\C-Study-Note\PlannerApp\PlannerAppCilent\obj\Debug\netstandard2.1\compressed\_framework\_bin\Newtonsoft.Json.dll.br
-D:\C-Study-Note\PlannerApp\PlannerAppCilent\obj\Debug\netstandard2.1\integrity\09Ob-zLmI3rZ7iX_RE-FzJ-fuQUxT9_lZykVoRCrpXc=.hash
-D:\C-Study-Note\PlannerApp\PlannerAppCilent\obj\Debug\netstandard2.1\integrity\oCXT5iQwAEj_oVzo7EhnAQnPaoTEL8XBFt293wJr8-Q=.hash
-D:\C-Study-Note\PlannerApp\PlannerAppCilent\obj\Debug\netstandard2.1\integrity\LSCQAS7CUAbbZTCiWUqYcqIOCgIkEDFA8GFu8XU12t4=.hash
-D:\C-Study-Note\PlannerApp\PlannerAppCilent\obj\Debug\netstandard2.1\integrity\l8ohzkpa8-tfRdseTE1vp2oW82AAA71PQHiusF6jQGk=.hash
-D:\C-Study-Note\PlannerApp\PlannerAppCilent\obj\Debug\netstandard2.1\integrity\vRjbMHXmNzsVDLrHxNpaFUCHrBfiOgC025aHdEpUZ9c=.hash
+D:\C-Study-Note\PlannerApp\PlannerAppCilent\obj\Debug\netstandard2.1\RazorDeclaration\Shared\AlertMessage.razor.g.cs
+D:\C-Study-Note\PlannerApp\PlannerAppCilent\obj\Debug\netstandard2.1\Razor\Shared\AlertMessage.razor.g.cs
+D:\C-Study-Note\PlannerApp\PlannerAppCilent\obj\Debug\netstandard2.1\integrity\yYBZdwbPdwHV5f5TkrVQBq9GpA8FKyGlGeSLszktTVg=.hash
+D:\C-Study-Note\PlannerApp\PlannerAppCilent\obj\Debug\netstandard2.1\integrity\CKhecPWkl2Fq8XOJ8igCSGCDzEHn68QH8ozXnV5WK_o=.hash
+D:\C-Study-Note\PlannerApp\PlannerAppCilent\obj\Debug\netstandard2.1\integrity\FYLkkuSsA5fj-QCC8AWaCQVRIOys_8qyfU5Nu0JoQ2w=.hash
+D:\C-Study-Note\PlannerApp\PlannerAppCilent\obj\Debug\netstandard2.1\integrity\NiasyajXzQHd-YQI-C1-h2SqRotwJrV0XWyIT_7HLR4=.hash
+D:\C-Study-Note\PlannerApp\PlannerAppCilent\obj\Debug\netstandard2.1\integrity\OYVRSePyJRLZNXxmqMExmPGmPROiuJ3IHqr-P-dQYu4=.hash

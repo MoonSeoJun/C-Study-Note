@@ -14,7 +14,7 @@ namespace PlannerAppCilent
 {
     public class Program
     {
-        private const string URL = "https://localhost:44328";
+        private const string URL = "https://plannerappserver20200228091432.azurewebsites.net";
         public static async Task Main(string[] args)
         {
             var builder = WebAssemblyHostBuilder.CreateDefault(args);
