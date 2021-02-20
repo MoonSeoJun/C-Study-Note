@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "kCSHlyl5qBN560aefiRt8h89h56q6DTjui0+9baMFQ2ewyEsecbGAoxk4spQgvGpV8RdkcDrdsNhhttaz+IpXg==",
+  "dgSpecHash": "M8U0zsjSfRhJXLEUreAgctBGrjeowKT8TERJUDSL03ETLQPbTrkQvQp268UK6t73Zsy5Y1fN52YEE21IC5IUiA==",
   "success": true,
   "projectFilePath": "D:\\C-Study-Note\\PlannerApp\\PlannerAppCilent\\PlannerApp.Cilent.csproj",
   "expectedPackageFiles": [
@@ -37,7 +37,7 @@
     "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\radzen.blazor\\3.1.0\\radzen.blazor.3.1.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.linq.dynamic.core\\1.2.2\\system.linq.dynamic.core.1.2.2.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",

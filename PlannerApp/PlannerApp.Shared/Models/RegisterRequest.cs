@@ -26,7 +26,7 @@ namespace PlannerApp.Shared.Models
 
         [Required]
         [StringLength(50)]
-        public string confirmPassword { get; set; }
+        public string ConfirmPassword { get; set; }
 
     }
 }
