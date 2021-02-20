@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "4lYulJAUwHrO8/U+J0glxzSZ/W4KI8gotwTsLyoDpwDWTb5hiKT5B0xleTpsgr7Dv8JkVfYUi/fWfvAjR/UamQ==",
+  "dgSpecHash": "+5dqp5QZS0ARrFmGKBdmqrdDqMil/4m4B2VFY+YConLty1WUrDMegi8fjIK0+ghtFC6r6gIrrJTteQxKHz5dIQ==",
   "success": true,
   "projectFilePath": "D:\\C-Study-Note\\PlannerApp\\PlannerApp.Shared\\PlannerApp.Shared.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\aksoftware.webapi\\3.0.1\\aksoftware.webapi.3.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],
   "logs": []
