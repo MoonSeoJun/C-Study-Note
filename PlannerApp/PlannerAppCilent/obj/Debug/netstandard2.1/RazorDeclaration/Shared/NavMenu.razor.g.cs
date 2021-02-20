@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace PlannerAppCilent.Shared
+namespace PlannerApp.Cilent.Shared
 {
     #line hidden
     using System;

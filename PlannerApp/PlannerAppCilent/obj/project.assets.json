@@ -1642,9 +1642,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C-Study-Note\\PlannerApp\\PlannerAppCilent\\PlannerAppCilent.csproj",
-      "projectName": "PlannerAppCilent",
-      "projectPath": "D:\\C-Study-Note\\PlannerApp\\PlannerAppCilent\\PlannerAppCilent.csproj",
+      "projectUniqueName": "D:\\C-Study-Note\\PlannerApp\\PlannerAppCilent\\PlannerApp.Cilent.csproj",
+      "projectName": "PlannerApp.Cilent",
+      "projectPath": "D:\\C-Study-Note\\PlannerApp\\PlannerAppCilent\\PlannerApp.Cilent.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
       "outputPath": "D:\\C-Study-Note\\PlannerApp\\PlannerAppCilent\\obj\\",
       "projectStyle": "PackageReference",

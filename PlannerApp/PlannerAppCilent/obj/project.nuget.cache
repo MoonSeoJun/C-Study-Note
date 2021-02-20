@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0hnCIAObCIYdjXvYrduyta/L6NOb1t2WYgYobhwUnmUjY3DBrciOT/UzjEW80aKMSGOVp/LRCKlq0X0FWN+/BQ==",
+  "dgSpecHash": "jeD+WyCVPFHfhFKAK0X5nCD9+A8Zq4kh47ds5EPDJB995BzmuiHUhb1psHYygy4mQmrPUkL83/q9Gde8BEQUYg==",
   "success": true,
-  "projectFilePath": "D:\\C-Study-Note\\PlannerApp\\PlannerAppCilent\\PlannerAppCilent.csproj",
+  "projectFilePath": "D:\\C-Study-Note\\PlannerApp\\PlannerAppCilent\\PlannerApp.Cilent.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.6\\microsoft.aspnetcore.authorization.3.1.6.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.6\\microsoft.aspnetcore.components.3.1.6.nupkg.sha512",
